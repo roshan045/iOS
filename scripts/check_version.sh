@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh/li
 
 # Get the directory where the script is stored
 script_dir=$(dirname "$(readlink -f "$0")")
